@@ -1,0 +1,138 @@
+{
+  "code": "IECC 2018",
+  "categories": {
+    "New Construction": [],
+    "Addition": [],
+    "Alterations": [],
+    "Category_4": [],
+    "Category_5": [],
+    "Building Envelope Area Types": [],
+    "Interior Lighting Method and Areas": [],
+    "Exterior Lighting Areas": [],
+    "Building Area Method (apply building envelope area types to interior lighting)": [],
+    "Area Category (Space-By-Space) Method": [],
+    "Automotive": [],
+    "Bank": [],
+    "Common Space Types": [
+      "Audience Seating Area - Other",
+      "Auditorium Seating Area",
+      "Classroom/Lecture/Training",
+      "Computer Room",
+      "Conference/Meeting/Multipurpose",
+      "Copy/Print Room",
+      "Corridor/Transition <8 ft wide",
+      "Corridor/Transition >=8 ft wide",
+      "Dining Area - General",
+      "Dining Area - Cafeteria/Fast Food",
+      "Dining Area - Bar Lounge/Leisure",
+      "Dining Area - Family Restaurant",
+      "Electrical/Mechanical",
+      "Emergency Vehicle Garage",
+      "Food Preparation",
+      "General Seating Area",
+      "Guest Room",
+      "Laboratory For Classrooms",
+      "Laboratory For Medical/Industrial/Research",
+      "Laundry/Washing Area",
+      "Loading Dock",
+      "Lobby - General",
+      "Lobby For Elevator",
+      "Locker Room",
+      "Lounge/Breakroom",
+      "Office - Enclosed",
+      "Office - Open Plan",
+      "Restrooms",
+      "Sales Area",
+      "Stairwell",
+      "Storage <50 sq.ft.",
+      "Storage >=50 - <=1000 sq.ft.",
+      "Storage >=1000 sq.ft.",
+      "Storage",
+      "Workshop"
+    ],
+    "Convention Center": [
+      "Exhibit Space"
+    ],
+    "Courthouse/Police Station/Penitentiary": [
+      "Confinement Cell",
+      "Penitentiary Audience/Seating Area",
+      "Penitentiary Classroom",
+      "Penitentiary Dining Area"
+    ],
+    "Dormitory": [],
+    "Facility for Visually Impaired": [
+      "Corridor/Transition <8 ft wide",
+      "Corridor/Transition >=8 ft wide",
+      "Dining Area",
+      "Lobby",
+      "Recreation/Common Living Area",
+      "Restroom"
+    ],
+    "Fire Stations": [],
+    "Gymnasium/Fitness Center": [
+      "Gymnasium Audience/Seating Area",
+      "Playing Area"
+    ],
+    "Healthcare Facility": [
+      "Corridor/Transition >=8 ft wide",
+      "Exam/Treatment",
+      "Imaging",
+      "Lounge/Breakroom",
+      "Medical Supply",
+      "Nursery",
+      "Nurses Station",
+      "Operating Room",
+      "Patient Room",
+      "Pharmacy",
+      "Physical Therapy",
+      "Recovery"
+    ],
+    "Hotel": [],
+    "Library": [
+      "Stacks"
+    ],
+    "Manufacturing": [
+      "Corridor/Transition >=8 ft wide",
+      "Detailed Manufacturing",
+      "Equipment Room",
+      "Extra High Bay (>= 50 ft. Floor to Ceiling Height)",
+      "High Bay (25-50 ft. Floor to Ceiling Height)",
+      "Low Bay (< 25ft. Floor to Ceiling Height)"
+    ],
+    "Motion Picture Theater": [
+      "Lobby"
+    ],
+    "Museum": [
+      "Restoration"
+    ],
+    "Parking Garage": [],
+    "Performing Arts Theater": [
+      "Lobby",
+      "Dressing/Fitting Room"
+    ],
+    "Post Office": [],
+    "Religious Buildings": [
+      "Fellowship Hall",
+      "Worship Pulpit, Choir"
+    ],
+    "Retail": [
+      "Mall Concourse",
+      "Sales Area"
+    ],
+    "Sports Arena - Play Area": [
+      "Court Sports Arena--Class 1",
+      "Court Sports Arena--Class 2",
+      "Court Sports Arena--Class 3",
+      "Court Sports Arena--Class 4"
+    ],
+    "Transportation": [
+      "Airport - Concourse",
+      "Terminal - Ticket Counter"
+    ],
+    "Warehouse Storage": [
+      "Medium/Bulky/Pallet Material"
+    ]
+  },
+  "total_categories": 33,
+  "total_subcategories": 82
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "index": 1,
+    "text": "90.1 (2007) Standard",
+    "value": "CEZ_90_1_2007"
+  },
+  {
+    "index": 2,
+    "text": "90.1 (2010) Standard",
+    "value": "CEZ_90_1_2010"
+  },
+  {
+    "index": 3,
+    "text": "90.1 (2013) Standard",
+    "value": "CEZ_90_1_2013"
+  },
+  {
+    "index": 4,
+    "text": "90.1 (2016) Standard",
+    "value": "CEZ_90_1_2016"
+  },
+  {
+    "index": 5,
+    "text": "90.1 (2019) Standard",
+    "value": "CEZ_90_1_2019"
+  },
+  {
+    "index": 6,
+    "text": "2009 IECC",
+    "value": "CEZ_IECC2009"
+  },
+  {
+    "index": 7,
+    "text": "2012 IECC",
+    "value": "CEZ_IECC2012"
+  },
+  {
+    "index": 8,
+    "text": "2015 IECC",
+    "value": "CEZ_IECC2015"
+  },
+  {
+    "index": 9,
+    "text": "2018 IECC",
+    "value": "CEZ_IECC2018"
+  },
+  {
+    "index": 10,
+    "text": "2021 IECC",
+    "value": "CEZ_IECC2021"
+  },
+  {
+    "index": 11,
+    "text": "Ontario",
+    "value": "CEZ_ONTARIO"
+  },
+  {
+    "index": 12,
+    "text": "2017 DC Energy Code",
+    "value": "CEZ_DC2017"
+  },
+  {
+    "index": 13,
+    "text": "Puerto Rico 2011",
+    "value": "CEZ_PUERTO_RICO"
+  },
+  {
+    "index": 14,
+    "text": "Vermont 2020",
+    "value": "CEZ_VT"
+  },
+  {
+    "index": 15,
+    "text": "2020 Florida - 7th Edition",
+    "value": "CEZ_FL"
+  },
+  {
+    "index": 16,
+    "text": "2020 Boulder, CO",
+    "value": "CEZ_CO_BOULDER"
+  },
+  {
+    "index": 17,
+    "text": "2019 Denver, CO - 2018 IECC",
+    "value": "CEZ_CO_DENVER"
+  },
+  {
+    "index": 18,
+    "text": "2019 Denver, CO - 90.1-2016",
+    "value": "CEZ_CO_DENVER_90_1_2016"
+  },
+  {
+    "index": 19,
+    "text": "2020 Massachusetts Commercial Energy Code",
+    "value": "CEZ_MAS"
+  },
+  {
+    "index": 20,
+    "text": "2022 Chicago",
+    "value": "CEZ_CHICAGO_IECC2022"
+  },
+  {
+    "index": 21,
+    "text": "2016 NYCECC",
+    "value": "CEZ_NEWYORKCITY"
+  },
+  {
+    "index": 22,
+    "text": "2020 NYCECC",
+    "value": "CEZ_NYSTRETCH_NYC_IECC2018"
+  },
+  {
+    "index": 23,
+    "text": "2020 NYCECC Appendix CA (modified ASHRAE 90.1-2016)",
+    "value": "CEZ_NYSTRETCH_NYC_90_1_2016"
+  },
+  {
+    "index": 24,
+    "text": "2020 NYCECC Appendix CA Modeling Envelope Backstop",
+    "value": "CEZ_NYSTRETCH_NYC_90_1_11_G"
+  },
+  {
+    "index": 25,
+    "text": "2020 NYSECCC",
+    "value": "CEZ_NY"
+  },
+  {
+    "index": 26,
+    "text": "2020 NYStretch - 2018 IECC",
+    "value": "CEZ_NYSTRETCH_IECC2018"
+  },
+  {
+    "index": 27,
+    "text": "2020 NYStretch - 90.1 (2016) Standard",
+    "value": "CEZ_NYSTRETCH_90_1_2016"
+  },
+  {
+    "index": 28,
+    "text": "2020 NYStretch - 90.1 (2016) Modeling Envelope Backstop",
+    "value": "CEZ_NYSTRETCH_90_1_11_G"
+  }
+]
