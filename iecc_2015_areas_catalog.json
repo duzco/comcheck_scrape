@@ -1,19 +1,17 @@
 {
-  "code": "IECC 2018",
+  "iecc_code": "2015",
+  "description": "Complete catalog of IECC 2015 activity types for COMcheck automation",
+  "total_categories": 23,
+  "total_subcategories": 117,
   "categories": {
-    "New Construction": [],
-    "Addition": [],
-    "Alterations": [],
-    "Category_4": [],
-    "Category_5": [],
-    "Building Envelope Area Types": [],
-    "Interior Lighting Method and Areas": [],
-    "Exterior Lighting Areas": [],
-    "Building Area Method (apply building envelope area types to interior lighting)": [],
-    "Area Category (Space-By-Space) Method": [],
-    "Automotive": [],
-    "Bank": [],
+    "Automotive": [
+      "Vehicular Maintenance Area"
+    ],
+    "Bank": [
+      "Banking Activity Area"
+    ],
     "Common Space Types": [
+      "Atrium",
       "Audience Seating Area - Other",
       "Auditorium Seating Area",
       "Classroom/Lecture/Training",
@@ -27,6 +25,7 @@
       "Dining Area - Bar Lounge/Leisure",
       "Dining Area - Family Restaurant",
       "Electrical/Mechanical",
+      "Emergency Vehicle Garage",
       "Food Preparation",
       "General Seating Area",
       "Guest Room",
@@ -50,16 +49,21 @@
       "Workshop"
     ],
     "Convention Center": [
+      "Audience/Seating Area",
       "Exhibit Space"
     ],
     "Courthouse/Police Station/Penitentiary": [
+      "Courtroom",
       "Confinement Cell",
       "Penitentiary Audience/Seating Area",
       "Penitentiary Classroom",
       "Penitentiary Dining Area"
     ],
-    "Dormitory": [],
+    "Dormitory": [
+      "Living Quarters"
+    ],
     "Facility for Visually Impaired": [
+      "Chapel",
       "Corridor/Transition <8 ft wide",
       "Corridor/Transition >=8 ft wide",
       "Dining Area",
@@ -67,12 +71,16 @@
       "Recreation/Common Living Area",
       "Restroom"
     ],
-    "Fire Stations": [],
+    "Fire Stations": [
+      "Sleeping Quarters"
+    ],
     "Gymnasium/Fitness Center": [
+      "Exercise Area",
       "Gymnasium Audience/Seating Area",
       "Playing Area"
     ],
     "Healthcare Facility": [
+      "Corridor/Transition <8 ft wide",
       "Corridor/Transition >=8 ft wide",
       "Exam/Treatment",
       "Imaging",
@@ -86,11 +94,15 @@
       "Physical Therapy",
       "Recovery"
     ],
-    "Hotel": [],
+    "Hotel": [
+      "Hotel Lobby"
+    ],
     "Library": [
+      "Reading Area",
       "Stacks"
     ],
     "Manufacturing": [
+      "Corridor/Transition <8 ft wide",
       "Corridor/Transition >=8 ft wide",
       "Detailed Manufacturing",
       "Equipment Room",
@@ -99,39 +111,56 @@
       "Low Bay (< 25ft. Floor to Ceiling Height)"
     ],
     "Motion Picture Theater": [
+      "Audience/Seating Area",
       "Lobby"
     ],
     "Museum": [
+      "General Exhibition",
       "Restoration"
     ],
-    "Parking Garage": [],
+    "Parking Garage": [
+      "Garage Area"
+    ],
     "Performing Arts Theater": [
+      "Audience/Seating Area",
       "Lobby",
       "Dressing/Fitting Room"
     ],
-    "Post Office": [],
+    "Post Office": [
+      "Sorting Area"
+    ],
     "Religious Buildings": [
+      "Audience/Seating Area",
       "Fellowship Hall",
       "Worship Pulpit, Choir"
     ],
     "Retail": [
+      "Dressing/Fitting Room",
       "Mall Concourse",
       "Sales Area"
     ],
     "Sports Arena - Play Area": [
+      "Audience/Seating Area",
       "Court Sports Arena--Class 1",
       "Court Sports Arena--Class 2",
       "Court Sports Arena--Class 3",
       "Court Sports Arena--Class 4"
     ],
     "Transportation": [
+      "Baggage/Carousel Area",
       "Airport - Concourse",
+      "Seating Area",
       "Terminal - Ticket Counter"
     ],
-    "Warehouse Storage": [
-      "Medium/Bulky/Pallet Material"
+    "Warehouse": [
+      "Fine Material Storage",
+      "Medium/Bulky/Pallet Material Storage"
     ]
   },
-  "total_categories": 33,
-  "total_subcategories": 81
+  "notes": {
+    "source": "Generated from /Users/home/comcheck_buddy/backend/rules/iecc_2015.yaml",
+    "emergency_vehicle_garage": "Note: Emergency Vehicle Garage is present in IECC 2015 (unlike 2018 where it was removed due to errors)",
+    "created_date": "2025-01-27",
+    "purpose": "Complete catalog for IECC 2015 automation scripts"
+  }
 }
